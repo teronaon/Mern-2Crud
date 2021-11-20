@@ -1,5 +1,14 @@
+# Catatan Pembuatan Web
+- API sudah ada tapi mohon dibantu jika terdapat kesalahan dalam API
+
+- API Mahasiswa : sudah dapat berjalan menggunakan postman
+
+- API Kontak Mahasiswa : kode dasarnya sudah ada, tapi masih belum bisa jalan, tolong perbaiki dan usahakan API dapat berjalan.
+
+- Front-end: Bisa melakukan inputan untuk API Mahasiswa dan API Kontak Mahasiswa serta dapat menapilkannya dalam tabel. Dalam tabel cukup Nama, NIM, Prodi saja, terdapat kolom aksi yang berisi button Detail Mahasiswa, Kontak Mahasiswa, dan Update Data.
+
 # Penjelasan API Secara Umum
-Pada tugas kali ini, Kelompok 13 membuat 2 Restful API yang masing-masing dapat menjalankan fungsi-fungsi CRUD ( *Create, Read, Update, and Delate*). 2 API tersebut yakni API yang memuat data mahasiswa secara umum dan API yang satunya lagi memuat data kontak mahasiswa. Diharapkan dengan adanya API-API tersebut data-data mahasiswa dapat terintegrasi anatar data secara umum ataupun data kontak mahasiswa itu sendiri.
+Pada tugas kali ini, diminta membuat 2 Restful API yang masing-masing dapat menjalankan fungsi-fungsi CRUD ( *Create, Read, Update, and Delate*). 2 API tersebut yakni API yang memuat data mahasiswa secara umum dan API yang satunya lagi memuat data kontak mahasiswa. Diharapkan dengan adanya API-API tersebut data-data mahasiswa dapat terintegrasi anatar data secara umum ataupun data kontak mahasiswa itu sendiri.
 
 # API Mahasiswa
 API Mahasiswa adalah API sederhana yang menyimpan pendataan mahasiswa untuk mengetahui mahasiswa tersebut merupakan mahasiswa aktif atau bukan. Pada kasus ini admin sebagai pengguna dapat meng-*create*, *read*, *updaete*, hingga menghapus/*delete* data. Dalam hal ini pengguna atau admin memiliki Nama (tipe data *String*), NIM (tipe data *String*), Program Studi (tipe data *String*), Tahun Angkatan (tipe data *Number*), dan status mahasiswa (tipe data *string*).
