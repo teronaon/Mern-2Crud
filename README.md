@@ -7,6 +7,8 @@
 
 - Front-end: Bisa melakukan inputan untuk API Mahasiswa dan API Kontak Mahasiswa serta dapat menapilkannya dalam tabel. Dalam tabel cukup Nama, NIM, Prodi saja, terdapat kolom aksi yang berisi button Detail Mahasiswa, Kontak Mahasiswa, dan Update Data.
 
+- **Sangat diutamakan yang bisa jadi paling lambat besok siang**.
+
 # Penjelasan API Secara Umum
 Pada tugas kali ini, diminta membuat 2 Restful API yang masing-masing dapat menjalankan fungsi-fungsi CRUD ( *Create, Read, Update, and Delate*). 2 API tersebut yakni API yang memuat data mahasiswa secara umum dan API yang satunya lagi memuat data kontak mahasiswa. Diharapkan dengan adanya API-API tersebut data-data mahasiswa dapat terintegrasi anatar data secara umum ataupun data kontak mahasiswa itu sendiri.
 
