@@ -1,4 +1,6 @@
 # Catatan Pembuatan Web
+- Menjalankan 2 fungsi CRUD menggunakan MERN
+
 - API sudah ada tapi mohon dibantu jika terdapat kesalahan dalam API
 
 - API Mahasiswa : sudah dapat berjalan menggunakan postman
